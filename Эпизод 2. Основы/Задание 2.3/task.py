@@ -1,4 +1,4 @@
-# todo: replace this with an actual task
+
 def task_1(str):
     answer = str.split()
     return len(answer[-1])
